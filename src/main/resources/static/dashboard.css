@@ -1,0 +1,16 @@
+.battery {
+    width: 100px;
+    height: 50px;
+    background-color: #f60202;
+    border-radius: 10px;
+    position: relative;
+   }
+   
+   .battery-fill {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #00ff00;
+    height: 0;
+   }
+   
